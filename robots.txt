@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://varmad07.github.io/bba-career-impact-playbook/sitemap.xml
