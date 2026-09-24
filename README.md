@@ -22,3 +22,7 @@ This is a reference guide, not a personal achievement record. Examples are learn
 
 **Reference edition:** September 2026  
 **Source review date:** 24 September 2026
+
+## Deployment
+
+Published with GitHub Pages using the repository's GitHub Actions workflow.
